@@ -1,0 +1,43 @@
+{
+  "@@locale": "en",
+  "appTitle": "FarmGuard AI",
+  "selectLanguage": "Select Language",
+  "continueBtn": "Continue",
+  "loginTitle": "Welcome Back",
+  "loginSubtitle": "Login to protect your farm",
+  "phoneNumber": "Phone Number",
+  "email": "Email Address",
+  "loginBtn": "Login",
+  "signupTitle": "Create Account",
+  "name": "Full Name",
+  "farmLocation": "Farm Location",
+  "signupBtn": "Sign Up",
+  "dashboardTitle": "Dashboard",
+  "cameraStatus": "Camera Status",
+  "active": "Active",
+  "inactive": "Inactive",
+  "detectionsToday": "Detections Today",
+  "lastDetected": "Last Detected Event",
+  "startMonitoring": "Start Farm Monitoring",
+  "stopMonitoring": "Stop Monitoring",
+  "demoMode": "Demo Mode",
+  "alertHistory": "Alert History",
+  "noAlerts": "No alerts recorded yet.",
+  "alertMessage": "Alert! A {object} has entered your farm.",
+  "@alertMessage": {
+    "placeholders": {
+      "object": {
+        "type": "String",
+        "example": "cow"
+      }
+    }
+  },
+  "objHuman": "Human",
+  "objCow": "Cow",
+  "objDog": "Dog",
+  "objGoat": "Goat",
+  "objWildAnimal": "Wild Animal",
+  "objVehicle": "Vehicle",
+  "theftProbability": "Theft Probability",
+  "suspiciousActivity": "Suspicious Activity"
+}

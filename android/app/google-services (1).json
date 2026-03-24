@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647324400026",
+    "project_id": "studio-1108785481-2d445",
+    "storage_bucket": "studio-1108785481-2d445.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647324400026:android:7d9363d10ed76f1f69a223",
+        "android_client_info": {
+          "package_name": "com.farmguard.farmguard_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647324400026-3rka1auucrncdamrdu6occ962l96sbo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTOcEZ21YFXzFctkv6HW1b-4gRXoSIlyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647324400026-3rka1auucrncdamrdu6occ962l96sbo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
