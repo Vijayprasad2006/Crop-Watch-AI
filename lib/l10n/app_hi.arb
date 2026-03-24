@@ -1,0 +1,43 @@
+{
+  "@@locale": "hi",
+  "appTitle": "फार्मगार्ड एआई",
+  "selectLanguage": "भाषा चुनें",
+  "continueBtn": "आगे बढ़ें",
+  "loginTitle": "वापसी पर स्वागत है",
+  "loginSubtitle": "अपने खेत की सुरक्षा के लिए लॉग इन करें",
+  "phoneNumber": "फ़ोन नंबर",
+  "email": "ईमेल पता",
+  "loginBtn": "लॉग इन करें",
+  "signupTitle": "खाता बनाएं",
+  "name": "पूरा नाम",
+  "farmLocation": "खेत का स्थान",
+  "signupBtn": "साइन अप करें",
+  "dashboardTitle": "डैशबोर्ड",
+  "cameraStatus": "कैमरा स्थिति",
+  "active": "सक्रिय",
+  "inactive": "निष्क्रिय",
+  "detectionsToday": "आज की पहचान",
+  "lastDetected": "अंतिम पता चला घटना",
+  "startMonitoring": "खेत की निगरानी शुरू करें",
+  "stopMonitoring": "निगरानी बंद करें",
+  "demoMode": "डेमो मोड",
+  "alertHistory": "अलर्ट इतिहास",
+  "noAlerts": "अभी तक कोई अलर्ट दर्ज नहीं किया गया है।",
+  "alertMessage": "अलर्ट! एक {object} आपके खेत में घुस आया है।",
+  "@alertMessage": {
+    "placeholders": {
+      "object": {
+        "type": "String",
+        "example": "गाय"
+      }
+    }
+  },
+  "objHuman": "इंसान",
+  "objCow": "गाय",
+  "objDog": "कुत्ता",
+  "objGoat": "बकरी",
+  "objWildAnimal": "जंगली जानवर",
+  "objVehicle": "वाहन",
+  "theftProbability": "चोरी की संभावना",
+  "suspiciousActivity": "संदिग्ध गतिविधि"
+}
